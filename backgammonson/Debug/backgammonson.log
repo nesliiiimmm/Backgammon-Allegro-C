@@ -1,0 +1,14 @@
+﻿Build started 17.05.2016 21:04:45.
+     1>Project "C:\Users\Neslihan\documents\visual studio 2013\Projects\backgammonson\backgammonson\backgammonson.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\neslihan\documents\visual studio 2013\projects\backgammonson\backgammonson\source.cpp(308): warning C4101: 'i' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Neslihan\documents\visual studio 2013\Projects\backgammonson\Debug\backgammonson.exe" /INCREMENTAL /NOLOGO alleg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Neslihan\documents\visual studio 2013\Projects\backgammonson\Debug\backgammonson.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Neslihan\documents\visual studio 2013\Projects\backgammonson\Debug\backgammonson.lib" /MACHINE:X86 Debug\Source.obj
+         backgammonson.vcxproj -> C:\Users\Neslihan\documents\visual studio 2013\Projects\backgammonson\Debug\backgammonson.exe
+     1>Done Building Project "C:\Users\Neslihan\documents\visual studio 2013\Projects\backgammonson\backgammonson\backgammonson.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
